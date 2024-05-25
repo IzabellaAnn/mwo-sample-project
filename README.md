@@ -11,5 +11,5 @@
 
 
 ## 🔗 Links
-[![GitHub Project](https://github.com/IzabellaAnn/mwo-sample-project.git)](https://github.com/IzabellaAnn/mwo-sample-project)
+[![GitHub Project](https://github.com/users/IzabellaAnn/projects/2/views/1)](https://github.com/users/IzabellaAnn/projects/2/views/1)
 
